@@ -2,7 +2,7 @@
  * KPD_config.h
  *
  *  Created on: Jun 28, 2019
- *      Author: Muhammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef KPD_CONFIG_H_
