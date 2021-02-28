@@ -2,7 +2,7 @@
  * KPD_private.h
  *
  *  Created on: Jun 28, 2019
- *  Author: Muhammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef KPD_PRIVATE_H_
