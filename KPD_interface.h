@@ -2,7 +2,7 @@
  * KPD_interface.h
  *
  *  Created on: Jun 28, 2019
- *  Author: Muhammed Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef KPD_INTERFACE_H_
